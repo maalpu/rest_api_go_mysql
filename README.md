@@ -56,10 +56,10 @@
   ```
 
 
-# Crear un módule en Github
+# Crear un módulo en Github
 1. Crear un repositorio en github
   - Lo llamaremos: `rest_api_go_mysql`
-2. Harmos el enlace con github
+2. Haremos el enlace con github
   ```
   $ go mod init github.com/maalpu/rest_api_go_mysql
   ```
